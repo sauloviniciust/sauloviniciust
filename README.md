@@ -67,7 +67,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 * 🌍  Minas Gerais, Brasil
 * ✉️  Entre em contato em <a href="mailto:sauloviniciust@gmail.com" target="_blank" rel="noreferrer">sauloviniciust@gmailcom.br.</a>  
 * 🚀  Atualmente trabalhando em um <a href="https://spacechronix.vercel.app" target="_blank" rel="noreferrer">site pessoal.</a>  
-* 🧠  Estou aprendendo Javascript 
+* 🧠  Estou aprendendo Javascript e ReactJS
 * 🤝  Procurando serviços como Desenvolvedor front end ou designer.
 
 ### Badges
