@@ -53,12 +53,9 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 ### Badges
 
 <b>My GitHub Stats</b>
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?
- username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust GitHub stats" /></a>
+<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api?sauloviniciust={sauloviniciust}&theme=blue-green">
 
 <div> 
   <a href="https://www.youtube.com/@isbum/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
