@@ -1,7 +1,6 @@
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Saulo Vinícius 🖖
 
-
-## Desenvolvedor full-stack | Produtor Musical | Designer 
+## Desenvolvedor Full-stack | Produtor Musical | Designer 
 
 ### Sobre mim
 Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola Coderhouse. Tenho formação em HTML e CSS, e estou continuamente aprimorando minhas habilidades nessa área. Atualmente, estou no curso de JavaScript e estou gostando muito de explorar esse domínio.
@@ -32,15 +31,17 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 * Edição de vídeo (Adobe Premiere)
 * Motion Graphics (After Effects)
 <p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img                          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"    width="36" height="36" alt="Figma" /></a>
   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  
   <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+  
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+  
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
  
 </p>
-
 
 ### Sound Designer skils
 * Produção Musical (Ableton Live)
@@ -49,18 +50,19 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 <p align="left">
   <a href="https://ableton.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/ableton_macos_bigsur_icon_190476.png" width="36" height="36" alt="Ableton icon" /></a>
-   <a href="https://vcvrack.com/" target="_blank" rel="noreferrer"><img src="https://vcvrack.com/logo-white.svg" width="36" height="36" alt="vcv icon" /></a>
-   <a href="https://traktor.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sauloviniciust/sauloviniciust/assets/126627845/91b3d7eb-6dec-4c4b-b387-1579e8c071b1" width="36" height="36" alt="traktor icon" /></a>
    
- 
+  <a href="https://vcvrack.com/" target="_blank" rel="noreferrer"><img src="https://vcvrack.com/logo-white.svg" width="36" height="36" alt="vcv icon" /></a>
+  
+  <a href="https://traktor.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sauloviniciust/sauloviniciust/assets/126627845/91b3d7eb-6dec-4c4b-b387-1579e8c071b1" width="36" height="36" alt="traktor icon" /></a>
+   
 </p>
 
-### Línguas
+### Idiomas
 
-* 🇧🇷 Português  (*****)
-* 🇺🇸 Inglês     (****)
-* 🇪🇸 Espanhol   (***)
-* 🇩🇪 Alemão     (*)
+* 🇧🇷 Português--(*****)
+* 🇺🇸 Inglês-----(****)
+* 🇪🇸 Espanhol---(***)
+* 🇩🇪 Alemão-----(*)
 
 ### Saulo Vinicius Aniceto Tolentino
 
@@ -69,7 +71,6 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 * 🚀  Atualmente trabalhando em um site pessoal (spacechronix.vercel.app)
 * 🧠  I'm learning Javascript 
 * 🤝  Procurando serviços como Desenvolvedor front end ou designer.
-
 
 ### Badges
 
