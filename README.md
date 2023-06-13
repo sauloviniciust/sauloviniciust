@@ -66,12 +66,6 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 * 🧠  I'm learning Javascript 
 * 🤝  Procurando serviços como Desenvolvedor front end ou designer.
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
-
 ### Redes Sociais
 
 <p align="left"> 
@@ -83,13 +77,11 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- <div> 
+### Badges
 
-  <a href="https://instagram.com/sauloviniciust" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="wa.link/fovx6s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sauloviniciust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <!-- <a href="https://www.youtube.com/@isbum/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     	<a href="https://www.twitch.tv/spacechronix" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-</div> -->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
+
+
 
