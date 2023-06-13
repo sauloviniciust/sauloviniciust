@@ -8,7 +8,7 @@ Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola
 
 Em paralelo tenho projetos em desenvolvimento web que me ajudam a incrementar minhas habilidades, e me manter cada vez mais confiante com o desenvolvimento em html e css. Atualmente trabalho em minhas páginas pessoais, que envolvem meu projeto como produtor de música eletrônica e sound designer.
 
-Na área de design, tenho experiência trabalhando para festas de música eletrônicas e designs psicodélicos para produtos como identidade visual digital, flyers, copos ingressos, e camisetas. Também estive envolvido em projetos de criação e edição de vídeo digital para divulgações de eventos e artistas dos mesmos, assim como after movies de apresentações de artistas e evento em geral.
+Na área de design, tenho experiência trabalhando para festas de música eletrônicas e designs psicodélicos para produtos como identidade visual, flyers, copos, ingressos, e camisetas. Também estive envolvido em projetos de criação e edição de vídeo digital para divulgações de eventos e artistas dos mesmos, assim como after movies de apresentações de artistas e evento em geral.
 
 ### DEV skils
 
@@ -62,6 +62,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 * 🇪🇸 Espanhol   (***)
 * 🇩🇪 Alemão     (*)
 
+### Saulo Vinicius Aniceto Tolentino
 
 * 🌍  Minas Gerais, Brasil
 * ✉️  Entre em contato em sauloviniciust@gmailcom br
@@ -78,12 +79,13 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 
 <div> 
-  <a href="https://www.youtube.com/@isbum/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
   <a href="https://instagram.com/sauloviniciust" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/spacechronix" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
  <a href="wa.link/fovx6s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sauloviniciust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    <a href="https://www.youtube.com/@isbum/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+     	<a href="https://www.twitch.tv/spacechronix" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
