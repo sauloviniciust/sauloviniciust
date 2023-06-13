@@ -57,12 +57,12 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 
 
-🌍  Minas Gerais, Brasil
+* 🌍  Minas Gerais, Brasil
 <!-- 🖥️  See my portfolio at danielcranney.com -->
-✉️  Entre em contato em sauloviniciust@gmailcom
-🚀  Atualmente trabalhando em um site pessoal (spacechronix.vercel.app)
-🧠  I'm learning Javascript 
-🤝  Procurando serviços como Desenvolvedor front end ou designer.
+* ✉️  Entre em contato em sauloviniciust@gmailcom br
+* 🚀  Atualmente trabalhando em um site pessoal (spacechronix.vercel.app)
+* 🧠  I'm learning Javascript 
+* 🤝  Procurando serviços como Desenvolvedor front end ou designer.
 
 ### Línguas
 
