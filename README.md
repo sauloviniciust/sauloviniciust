@@ -9,7 +9,9 @@ Em paralelo tenho projetos em desenvolvimento web que me ajudam a incrementar mi
 
 Na área de design, tenho experiência trabalhando para festas de música eletrônicas e designs psicodélicos para produtos como identidade visual, flyers, copos, ingressos, e camisetas. Também estive envolvido em projetos de criação e edição de vídeo digital para divulgações de eventos e artistas dos mesmos, assim como after movies de apresentações de artistas e evento em geral.
 
-### DEV skils
+##SKILLS
+
+### DEV 
 
 * HTML
 * CSS
@@ -24,7 +26,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
 
-### Designer skils
+### Designer 
 * Figma
 * Photoshop
 * Ilustrador
@@ -39,7 +41,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
  
 </p>
 
-### Sound Designer skils
+### Sound Designer 
 * Produção Musical (Ableton Live)
 * DJing (Traktor)
 * Sound design (Vcv Rack)
