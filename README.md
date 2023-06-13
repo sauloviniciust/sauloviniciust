@@ -86,4 +86,4 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 <a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloviniciust)](https://github.com/sauloviniciust/github-readme-stats)
