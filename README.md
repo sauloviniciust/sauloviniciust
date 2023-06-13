@@ -63,10 +63,19 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 ### Saulo Vinicius Aniceto Tolentino
 
 * 🌍  Minas Gerais, Brasil
-* ✉️  Entre em contato em sauloviniciust@gmailcom br
+* ✉️  Entre em contato em <a href="mailto:sauloviniciust@gmail.com" target="_blank" rel="noreferrer">sauloviniciust@gmailcom.br.</a>  
 * 🚀  Atualmente trabalhando em um <a href="https://spacechronix.vercel.app" target="_blank" rel="noreferrer">site pessoal.</a>  
 * 🧠  I'm learning Javascript 
 * 🤝  Procurando serviços como Desenvolvedor front end ou designer.
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloviniciust&layout=donut&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/sauloviniciust/github-readme-stats)
+
 
 ### Redes Sociais
 
@@ -78,12 +87,5 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
   <a href="https://instagram.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloviniciust&layout=donut&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/sauloviniciust/github-readme-stats)
+   <a href="wa.link/fovx6s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
