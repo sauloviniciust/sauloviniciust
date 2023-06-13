@@ -1,8 +1,6 @@
+### Change to english language -> <a href="https://github.com/sauloviniciust/sauloviniciust-english.git" target="_blank" rel="noreferrer"><img src="https://t4.ftcdn.net/jpg/00/65/12/49/360_F_65124908_UpNHzTdQn2HNAIT8yYqybMQeGfsRmVc7.jpg" width="35" height="25" alt="euaflag" /></a>
+
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Saulo Vinícius 🖖
-
-### English lang -> <a href="https://github.com/sauloviniciust/sauloviniciust-english.git" target="_blank" rel="noreferrer"><img src="https://t4.ftcdn.net/jpg/00/65/12/49/360_F_65124908_UpNHzTdQn2HNAIT8yYqybMQeGfsRmVc7.jpg" width="35" height="25" alt="euaflag" /></a>
-
-
 
 ## Desenvolvedor Full-stack | Produtor Musical | Designer 
 
