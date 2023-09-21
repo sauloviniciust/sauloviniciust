@@ -15,10 +15,8 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 ### DEV 
 
-* ReactJS
-* Typescript
-* Tailwind
-* 
+* ReactJS | Typescript | Tailwind
+*  
 <p align="left">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
@@ -27,8 +25,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
   
-* Javascript
-* Python
+* Javascript | Python
 
 <p align="left">
   
@@ -37,10 +34,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
   
-* Vitejs
-* HTML
-* CSS
-* Bootstrap
+* Vitejs | HTML | CSS | Bootstrap
   
 <p align="left">
 
@@ -51,10 +45,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
   
-* VsCode
-* Nodejs
-* Git
-* Bash
+VsCode | Nodejs | Git | Bash
 
 <p align="left">
 
@@ -66,8 +57,6 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 </p>
   
 ### Aprendendo
-* SQL
-
 <p align="left">  
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="34" alt="Sql" /></a>
