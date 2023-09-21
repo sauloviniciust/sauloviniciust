@@ -62,37 +62,31 @@ VsCode | Nodejs | Git | Bash
  
 <p align="left">  
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="34" alt="Sql" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="34" alt="Sql" />
   
 </p>
 
 ### Designer 
-* Figma
-* Photoshop
-* Ilustrador
-* Edição de vídeo (Adobe Premiere)
-* Motion Graphics (After Effects)
+* Figma | Photoshop | Ilustrador | Adobe Premiere (Edição de vídeo) | After Effect (Motion Graphics )
 
 <p align="left">
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img                          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"    width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"    width="36" height="36" alt="Figma" />
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" />
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
  
 </p>
 
 ### Sound Designer 
-* Produção Musical (Ableton Live)
-* DJing (Traktor)
-* Sound design (Vcv Rack)
+* Produção Musical (Ableton Live) | DJing (Traktor) | Sound design (Vcv Rack)
 
 <p align="left">
   
-  <a href="https://ableton.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/ableton_macos_bigsur_icon_190476.png" width="36" height="36" alt="Ableton icon" /></a>
-  <a href="https://vcvrack.com/" target="_blank" rel="noreferrer"><img src="https://vcvrack.com/logo-white.svg" width="36" height="36" alt="vcv icon" /></a>
-  <a href="https://traktor.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sauloviniciust/sauloviniciust/assets/126627845/91b3d7eb-6dec-4c4b-b387-1579e8c071b1" width="36" height="36" alt="traktor icon" /></a>
+  <a href="https://ableton.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/ableton_macos_bigsur_icon_190476.png" width="36" height="36" alt="Ableton icon" />
+  <a href="https://vcvrack.com/" target="_blank" rel="noreferrer"><img src="https://vcvrack.com/logo-white.svg" width="36" height="36" alt="vcv icon" />
+  <a href="https://traktor.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sauloviniciust/sauloviniciust/assets/126627845/91b3d7eb-6dec-4c4b-b387-1579e8c071b1" width="36" height="36" alt="traktor icon" />
    
 </p>
 
@@ -115,7 +109,7 @@ VsCode | Nodejs | Git | Bash
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" /></a>
+<a href="http://www.github.com/sauloviniciust"><img src="https://github-readme-stats.vercel.app/api?username=sauloviniciust&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauloviniciust's GitHub stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloviniciust&layout=donut&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/sauloviniciust/github-readme-stats)
 
@@ -123,17 +117,17 @@ VsCode | Nodejs | Git | Bash
 ### Redes Sociais
 
 <p align="left"> 
-     <a href="wa.link/fovx6s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="32" height="32"></a> 
+     <a href="wa.link/fovx6s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="32" height="32">
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" width="32" height="32" /></a>
+  <a href="https://www.github.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" width="32" height="32" />
 &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/saulo-vinicius-b05b38271" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sauloviniciust.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/sauloviniciust.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   &nbsp;&nbsp;&nbsp;
-   <a href="https://www.threads.net/@sauloviniciust" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/600px-Threads_%28app%29.png" width="32" height="32" /></a>
+   <a href="https://www.threads.net/@sauloviniciust" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Threads_%28app%29.png/600px-Threads_%28app%29.png" width="32" height="32" />
    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/sauloviniciust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   
 
 
