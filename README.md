@@ -16,7 +16,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 ### DEV 
 
 * ReactJS | Typescript | Tailwind
-*  
+  
 <p align="left">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
@@ -57,6 +57,9 @@ VsCode | Nodejs | Git | Bash
 </p>
   
 ### Aprendendo
+
+* SQL
+ 
 <p align="left">  
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="34" alt="Sql" /></a>
