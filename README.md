@@ -15,7 +15,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 ### DEV 
 
-* ReactJS | Typescript | Tailwind
+ReactJS | Typescript | Tailwind
   
 <p align="left">
 
@@ -25,7 +25,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
   
-* Javascript | Python
+Javascript | Python
 
 <p align="left">
   
@@ -34,7 +34,7 @@ Na área de design, tenho experiência trabalhando para festas de música eletr�
 
 </p>
   
-* Vitejs | HTML | CSS | Bootstrap
+Vitejs | HTML | CSS | Bootstrap
   
 <p align="left">
 
@@ -58,7 +58,7 @@ VsCode | Nodejs | Git | Bash
   
 ### Aprendendo
 
-* SQL
+SQL
  
 <p align="left">  
 
@@ -67,7 +67,7 @@ VsCode | Nodejs | Git | Bash
 </p>
 
 ### Designer 
-* Figma | Photoshop | Ilustrador | Adobe Premiere (Edição de vídeo) | After Effect (Motion Graphics )
+Figma | Photoshop | Ilustrador | Adobe Premiere (Edição de vídeo) | After Effect (Motion Graphics )
 
 <p align="left">
 
@@ -80,7 +80,7 @@ VsCode | Nodejs | Git | Bash
 </p>
 
 ### Sound Designer 
-* Produção Musical (Ableton Live) | DJing (Traktor) | Sound design (Vcv Rack)
+Ableton Live (Produção Musical) | Traktor (DJing) | Vcv Rack (Sound design)
 
 <p align="left">
   
