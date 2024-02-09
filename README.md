@@ -102,7 +102,7 @@ Ableton Live (Produção Musical) | Traktor (DJing) | Vcv Rack (Sound design)
 
 * 🌍  Minas Gerais, Brasil
 * ✉️  Entre em contato em <a href="mailto:sauloviniciust@gmail.com" target="_blank" rel="noreferrer">sauloviniciust@gmail.com.br.</a>  
-* 🚀  Atualmente trabalhando em um <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">site pessoal.</a>  
+* 🚀  Atualmente trabalhando em um portfolio <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">site pessoal.</a>  
 * 🧠  Estou aprendendo Back-end & Fundamentos da Inteligencia Artificial
 * 🤝  Procurando serviços como Desenvolvedor front end ou designer.
 
