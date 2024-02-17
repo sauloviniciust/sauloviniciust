@@ -7,7 +7,7 @@
 ### Sobre mim
 Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola Coderhouse. Tenho formação em HTML e CSS, e estou continuamente aprimorando minhas habilidades nessa área. Atualmente, estou no curso de JavaScript e estou gostando muito de explorar esse domínio.
 
-Em paralelo tenho projetos em desenvolvimento web que me ajudam a incrementar minhas habilidades, e me manter cada vez mais confiante com o desenvolvimento em html e css. Atualmente trabalho em páginas pessoais, como <a href="devsaulo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>, <a href="bloogr.vercel.app" target="_blank" rel="noreferrer">Blog</a>, <a href="bodylife.vercel.app" target="_blank" rel="noreferrer">Loja</a>, entre outros modelos de aplicação que me ajudam a fixar e aumentar todo o meu conhecimento.
+Em paralelo tenho projetos em desenvolvimento web que me ajudam a incrementar minhas habilidades, e me manter cada vez mais confiante com o desenvolvimento em html e css. Atualmente trabalho em páginas pessoais, como <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>, <a href="https://bloogr.vercel.app" target="_blank" rel="noreferrer">Blog</a>, <a href="https://bodylife.vercel.app" target="_blank" rel="noreferrer">Loja</a>, entre outros modelos de aplicação que me ajudam a fixar e aumentar todo o meu conhecimento.
 
 Na área de design, tenho experiência trabalhando para festas de música eletrônicas e designs psicodélicos para produtos como identidade visual, flyers, copos, ingressos, e camisetas. Também estive envolvido em projetos de criação e edição de vídeo digital para divulgações de eventos e artistas dos mesmos, assim como after movies de apresentações de artistas e evento em geral.
 
