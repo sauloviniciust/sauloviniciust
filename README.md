@@ -5,7 +5,7 @@
 ## Desenvolvedor Full-stack | Designer | Produtor Musical 
 
 ### Sobre mim
-Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola Coderhouse. Tenho formação em HTML e CSS, e estou continuamente aprimorando minhas habilidades nessa área. Atualmente, estou no curso de JavaScript e estou gostando muito de explorar esse domínio.
+Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola Coderhouse. Tenho formação em HTML, CSS, React, Typescript, Tailwind e Next, e estou continuamente aprimorando minhas habilidades nessa área. Atualmente, estou no curso de JavaScript e estou gostando muito de explorar esse domínio.
 
 Em paralelo tenho projetos em desenvolvimento web que me ajudam a incrementar minhas habilidades, e me manter cada vez mais confiante com o desenvolvimento frond-end. Atualmente trabalho em páginas pessoais, como <a href="https://devsaulo.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>, <a href="https://bloogr.vercel.app" target="_blank" rel="noreferrer">Blog</a>, <a href="https://bodylife.vercel.app" target="_blank" rel="noreferrer">Loja</a>, entre outros modelos de aplicação que me ajudam a fixar e aumentar todo o meu conhecimento.
 
