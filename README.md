@@ -2,7 +2,7 @@
 
 # Olá!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Saulo Vinícius 🖖
 
-## Desenvolvedor Full-stack  
+## Desenvolvedor Front End   
 
 ### Sobre mim
 Comecei minha jornada no desenvolvimento full-stack em janeiro de 2023 na escola Coderhouse. Tenho formação em HTML, CSS, Javascript, React, Typescript, Tailwind e Next, e estou continuamente aprimorando minhas habilidades nessa área. Atualmente, estou no curso de Backend e Inteligencia artificial e estou gostando muito de explorar esse domínio.
